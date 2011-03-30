@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.dproj,C:\Dokumente und Einstellungen\s0753\Desktop\Neuer Ordner\Project1.dproj=C:\Dokumente und Einstellungen\s0753\Eigene Dateien\RAD Studio\Projekte\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.340,X:\PacMan Mapeditor new\Project1.dproj=X:\PacMan Mapeditor new\Mapeditor_Pacman3D.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.dfm,C:\Dokumente und Einstellungen\s0753\Desktop\Neuer Ordner\Unit1.dfm=C:\Dokumente und Einstellungen\s0753\Eigene Dateien\RAD Studio\Projekte\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.pas,C:\Dokumente und Einstellungen\s0753\Desktop\Neuer Ordner\Unit1.pas=C:\Dokumente und Einstellungen\s0753\Eigene Dateien\RAD Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.141,X:\PacMan Mapeditor new\Unit2.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
